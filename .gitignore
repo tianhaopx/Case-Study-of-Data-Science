@@ -100,7 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 
-*.json
+#*.json
 
 # ignore the .DS_store file in the MacOS
 .DS_store
