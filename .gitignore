@@ -104,3 +104,4 @@ ENV/
 
 # ignore the .DS_store file in the MacOS
 .DS_store
+.idea/
